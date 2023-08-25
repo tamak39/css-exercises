@@ -19,7 +19,6 @@
 
 .left-links,
 .right-links {
-  font-size: 1.5em;
   display: flex;
   align-items: center;
 }
